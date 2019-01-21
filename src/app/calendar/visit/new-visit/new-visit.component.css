@@ -1,0 +1,13 @@
+.datepicker{
+    font-size: 14px;
+    box-sizing: border-box;
+    border: none;
+    box-shadow: none;
+    outline: none;
+    background: transparent;
+    min-width: 120px;
+    max-width: 328px;
+    padding: 0 0 5px; 
+    border-width: 0 0 1px;
+    line-height: 26px;  
+}
